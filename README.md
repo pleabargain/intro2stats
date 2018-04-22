@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/intro2stats/master)
 
+This code was designed for python 2.7. Significant changes will need to be made to get it to work properly with 3.x python.
+
 # Introduction to Statistics
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2stats/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
