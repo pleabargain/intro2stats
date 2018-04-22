@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/intro2stats/master)
+
 # Introduction to Statistics
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2stats/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
