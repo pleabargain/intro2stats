@@ -3,9 +3,7 @@
 This code was designed for python 2.7. Significant changes will need to be made to get it to work properly with 3.x python.
 There also appear to be problems with certain function calls and order of arguments. Notebook four is partially working.
 
-# Introduction to Statistics
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2stats/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Introduction to Statistics using Python
 
 
 Inspired by Allen Downey's books [Think Stats](http://greenteapress.com/thinkstats/) and [Think Bayes](http://greenteapress.com/thinkbayes/), this is an attempt to learn Statistics using an application-centric programming approach. 
